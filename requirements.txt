@@ -1,0 +1,7 @@
+deep_translator==1.11.4
+platformdirs==4.3.7
+PyQt6==6.8.1
+PyQt6_sip==13.10.0
+realtimestt==0.3.100
+rich==14.0.0
+sounddevice==0.5.1
