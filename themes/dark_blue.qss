@@ -1,0 +1,27 @@
+
+QWidget {
+    background-color: #1c1e2f;
+    color: #a9caff;
+    font-family: "Segoe UI";
+    font-size: 11pt;
+}
+QTextEdit, QComboBox {
+    background-color: #283046;
+    color: #d1e8ff;
+    border: 1px solid #6ca0dc;
+    border-radius: 4px;
+    padding: 4px;
+}
+QPushButton {
+    background-color: #34568b;
+    color: #d1e8ff;
+    border: 1px solid #6ca0dc;
+    border-radius: 4px;
+    padding: 5px;
+}
+QPushButton:hover {
+    background-color: #2b4a7a;
+}
+QCheckBox, QLabel {
+    color: #a9caff;
+}

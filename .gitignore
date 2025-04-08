@@ -1,2 +1,5 @@
 #environment (duh)
-tranenv/
+env/
+__pycache__/
+
+TTold.py
